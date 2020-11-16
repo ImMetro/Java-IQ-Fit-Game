@@ -1,0 +1,11 @@
+# List the membership of this group.  (Remove entries if you have fewer
+# than three members.)
+#
+
+members:
+  - name: Liuchao Wu
+    uid: u6325233
+    contact: u6325233@anu.edu.au
+  - name: Peter Zhao
+    uid: u7122447
+    contact: u7122447@anu.edu.au
